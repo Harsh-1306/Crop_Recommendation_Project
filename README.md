@@ -79,10 +79,9 @@ The notebook includes evaluations of three machine learning models:
 
 ## Screenshots
 
-<img src="https://github.com/Harsh-1306/Crop_Recommendation_Project/tree/main/Screenshots/image1.png" width="700" height="500"/>
-<img src="https://github.com/Harsh-1306/Crop_Recommendation_Project/tree/main/Screenshots/image2.png" width="700" height="500"/>
-<img src="https://github.com/Harsh-1306/Crop_Recommendation_Project/tree/main/Screenshots/image3.png" width="700" height="500"/>
-
+![image](https://github.com/Harsh-1306/Crop_Recommendation_Project/blob/main/Screenshots/image1.png)
+![image](https://github.com/Harsh-1306/Crop_Recommendation_Project/blob/main/Screenshots/image2.png)
+![image](https://github.com/Harsh-1306/Crop_Recommendation_Project/blob/main/Screenshots/image3.png)
 
 ## Technology
 <div align="center">
