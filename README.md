@@ -58,7 +58,7 @@ python app.py
 
 ## Model Evaluation
 
-The notebook includes evaluations of three machine learning models:
+The notebook includes evaluations of following machine learning models:
 
 - Bernoulli Naive Bayes
 - Gaussian Naive Bayes
