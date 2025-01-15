@@ -1,5 +1,8 @@
 import joblib
 from flask import Flask, render_template, request, redirect
+
+app.config['DEBUG'] = True
+app.config['ENV'] = 'development'
 app = Flask(__name__)
 
 @app.route('/')
